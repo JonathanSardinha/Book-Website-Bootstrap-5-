@@ -1,0 +1,10 @@
+{
+    "name": "Net Ninja",
+    "short_name": "NetNinja",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE902",
+    "theme_color":"#FFE1C4",
+    "orientation": "portrait-primary"
+    
+}
